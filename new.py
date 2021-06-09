@@ -1,5 +1,3 @@
-sankhu=50
-if sankhu >40:
-    bool(print('it is sankhu'))
-else:
-   bool(print('it is not sankhu'))
+name = "manjesh"
+for x in range(0,4):
+    print ("shyam")
